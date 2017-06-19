@@ -202,7 +202,7 @@ if (deepBlue) {
 	var col_bar_title = RGB(237, 237, 237);
 	var col_bar_artist = properties.darkTheme ? RGB(124, 124, 124) : RGB(139, 139, 139);
 	var col_bar_vol = RGB(134, 134, 134);
-	var seek_col_solid = RGB(233, 233, 233);
+	var seek_col_solid = accent_colour;
 	var seek_col_back = properties.darkTheme ? RGB(35, 35, 35) : RGB(57, 57, 57);
 	var seek_col_txt = properties.darkTheme ? RGB(124, 124, 124) : RGB(136, 136, 136);
 	var playlists_col_col = RGB(255, 255, 255);
